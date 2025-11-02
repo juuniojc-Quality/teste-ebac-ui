@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Cronus Yoga Pant",
+        "tamanho":  "32",
+        "cor": "Red",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho":  "L",
+        "cor": "Purple",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Celeste Sports Bra",
+        "tamanho":  "S",
+        "cor": "Yellow",
+        "quantidade": 5
+    }
+]
